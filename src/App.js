@@ -21,7 +21,7 @@ function App() {
           <img src={logo} className='logo'></img>
         </div>
         <div>
-          <p>Google Login</p>
+          <p>Google SignIn</p>
         </div>
       </div>
       <h2>{user?.displayName}</h2>
